@@ -1,0 +1,43 @@
+
+.cabecalho{
+
+  background-color: #FFD411;
+  display: flex ;
+  justify-content: space-around;
+
+
+}
+.menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+
+}
+.menu-navegacao{
+  display: flex;
+  gap: 40px;
+  align-items: center;
+
+
+
+}
+.item-menu-navegacao{
+
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+color: #ffff;
+}
+.texto-navegacao{
+
+  display: flex;
+  background: #FEFCFC;
+  border-radius: 20px;
+  padding: 12px;
+  justify-content: space-around;
+  gap: 25px;
+
+
+}

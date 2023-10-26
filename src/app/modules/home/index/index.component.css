@@ -1,0 +1,11 @@
+.oferta{
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+.oferta img {
+  border-radius: 20px;
+}
+
